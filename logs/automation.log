@@ -1,0 +1,36 @@
+18:28:54.148 [main] INFO  testCases.TC__006__ContactUs - Starting testExecution
+18:28:56.592 [main] INFO  testCases.TC__006__ContactUs - Clicked on Contact
+18:28:56.751 [main] INFO  testCases.TC__006__ContactUs - Entered Name
+18:28:56.872 [main] INFO  testCases.TC__006__ContactUs - Email is Entered
+18:28:56.977 [main] INFO  testCases.TC__006__ContactUs - Subject is entered
+18:28:57.109 [main] INFO  testCases.TC__006__ContactUs - Message is entered
+18:29:03.706 [main] INFO  testCases.TC__006__ContactUs - File is Uploaded
+18:29:07.826 [main] INFO  testCases.TC__006__ContactUs - Clicked on submit
+18:29:07.843 [main] INFO  testCases.TC__006__ContactUs - Alert is closed
+18:29:07.895 [main] INFO  testCases.TC__006__ContactUs - Retreiving  confirmMsg
+18:29:07.895 [main] INFO  testCases.TC__006__ContactUs - Got sucess Message
+18:29:07.895 [main] INFO  testCases.TC__006__ContactUs - Finished testExecution
+18:32:55.046 [main] INFO  testCases.TC__006__ContactUs - Starting testExecution
+18:32:58.962 [main] INFO  testCases.TC__006__ContactUs - Clicked on Contact
+18:32:59.129 [main] INFO  testCases.TC__006__ContactUs - Entered Name
+18:32:59.255 [main] INFO  testCases.TC__006__ContactUs - Email is Entered
+18:32:59.351 [main] INFO  testCases.TC__006__ContactUs - Subject is entered
+18:32:59.470 [main] INFO  testCases.TC__006__ContactUs - Message is entered
+18:33:06.183 [main] INFO  testCases.TC__006__ContactUs - File is Uploaded
+18:33:10.298 [main] INFO  testCases.TC__006__ContactUs - Clicked on submit
+18:33:10.314 [main] INFO  testCases.TC__006__ContactUs - Alert is closed
+18:33:10.354 [main] INFO  testCases.TC__006__ContactUs - Retreiving  confirmMsg
+18:33:10.354 [main] INFO  testCases.TC__006__ContactUs - Got sucess Message
+18:33:10.355 [main] INFO  testCases.TC__006__ContactUs - Finished testExecution
+13:55:25.523 [main] INFO  testCases.TC__006__ContactUs - Starting testExecution
+13:55:28.505 [main] INFO  testCases.TC__006__ContactUs - Clicked on Contact
+13:55:28.722 [main] INFO  testCases.TC__006__ContactUs - Entered Name
+13:55:28.837 [main] INFO  testCases.TC__006__ContactUs - Email is Entered
+13:55:28.924 [main] INFO  testCases.TC__006__ContactUs - Subject is entered
+13:55:29.000 [main] INFO  testCases.TC__006__ContactUs - Message is entered
+13:55:35.774 [main] INFO  testCases.TC__006__ContactUs - File is Uploaded
+13:55:40.033 [main] INFO  testCases.TC__006__ContactUs - Clicked on submit
+13:55:40.051 [main] INFO  testCases.TC__006__ContactUs - Alert is closed
+13:55:40.098 [main] INFO  testCases.TC__006__ContactUs - Retreiving  confirmMsg
+13:55:40.099 [main] INFO  testCases.TC__006__ContactUs - Got sucess Message
+13:55:40.100 [main] INFO  testCases.TC__006__ContactUs - Finished testExecution
